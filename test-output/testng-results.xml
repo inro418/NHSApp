@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NHSApp" duration-ms="11051" started-at="2020-01-24T16:32:54Z" finished-at="2020-01-24T16:33:05Z">
+    <groups>
+    </groups>
+    <test name="MaintainaceTest" duration-ms="11051" started-at="2020-01-24T16:32:54Z" finished-at="2020-01-24T16:33:05Z">
+      <class name="tests.NHSAppTest">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:tests.NHSAppTest@5b275dab]" name="LaunchBrowser" duration-ms="10958" started-at="2020-01-24T16:32:54Z" finished-at="2020-01-24T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+      </class> <!-- tests.NHSAppTest -->
+      <class name="tests.TestCases">
+        <test-method status="PASS" signature="ClickAerobicexcercise()[pri:0, instance:tests.TestCases@3ffc5af1]" name="ClickAerobicexcercise" duration-ms="3" started-at="2020-01-24T16:33:05Z" finished-at="2020-01-24T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAerobicexcercise -->
+        <test-method status="PASS" signature="ClickAerobics()[pri:0, instance:tests.TestCases@3ffc5af1]" name="ClickAerobics" duration-ms="10" started-at="2020-01-24T16:33:05Z" finished-at="2020-01-24T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAerobics -->
+        <test-method status="PASS" signature="ClickExercise()[pri:0, instance:tests.TestCases@3ffc5af1]" name="ClickExercise" duration-ms="3" started-at="2020-01-24T16:33:05Z" finished-at="2020-01-24T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickExercise -->
+        <test-method status="PASS" signature="ClickLiveWell()[pri:0, instance:tests.TestCases@3ffc5af1]" name="ClickLiveWell" duration-ms="4" started-at="2020-01-24T16:33:05Z" finished-at="2020-01-24T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickLiveWell -->
+        <test-method status="PASS" signature="Clickaerobicworkoutvideos()[pri:0, instance:tests.TestCases@3ffc5af1]" name="Clickaerobicworkoutvideos" duration-ms="9" started-at="2020-01-24T16:33:05Z" finished-at="2020-01-24T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clickaerobicworkoutvideos -->
+        <test-method status="PASS" signature="ClickandwatchAerobics()[pri:0, instance:tests.TestCases@3ffc5af1]" name="ClickandwatchAerobics" duration-ms="1" started-at="2020-01-24T16:33:05Z" finished-at="2020-01-24T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickandwatchAerobics -->
+      </class> <!-- tests.TestCases -->
+    </test> <!-- MaintainaceTest -->
+  </suite> <!-- NHSApp -->
+</testng-results>
